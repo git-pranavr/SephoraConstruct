@@ -4,7 +4,7 @@ Sephora is a French multinational retailer of personal care and beauty products.
 
 AS part of unit 2 construct week we cloned the frontend of sephora.com to the best of our ability in a team of 4 within the span of 5 days.
 
-[Deploy link](https://sephoraclone.netlify.app/)
+[Deploy link](https://zesty-lebkuchen-d2a18c.netlify.app/)
 
 [Blog link](https://medium.com/@iaishwaryapatil01/sephora-website-cloning-f694dc2941b5)
 
