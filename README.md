@@ -6,14 +6,14 @@ AS part of unit 2 construct week we cloned the frontend of sephora.com to the be
 
 [Deploy link](https://sephoraclone.netlify.app/)
 
-## collaborators
+## collaborators:
 - [Pranav R](github.com/git-pranavr)
 - [Aishwara Patil](https://github.com/Aishwaryapatil1)
 - [Rohit Raj](https://github.com/Rohitraj97)
 - [Ganesh S Prubhu](https://github.com/Ganesh-S-Prabhu)
 
 
-## Tech Stack
+## Tech Stack:
 
 <p>
    <img src="https://img.icons8.com/color/64/000000/javascript.png"/>
@@ -21,6 +21,12 @@ AS part of unit 2 construct week we cloned the frontend of sephora.com to the be
    <img src="https://img.icons8.com/color/64/000000/css3.png" />
    <img src="https://img.icons8.com/color/64/000000/json.png"/>
 </p>
+
+## Features:
+• Signin/Signup
+• Product Discovery Page
+• Product Cart and Checkout Page
+• Payment gateway Integration 
 
 <h1>Snapshots of our project</h1>
 
