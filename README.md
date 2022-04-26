@@ -23,10 +23,10 @@ AS part of unit 2 construct week we cloned the frontend of sephora.com to the be
 </p>
 
 ## Features:
-• Signin/Signup
-• Product Discovery Page
-• Product Cart and Checkout Page
-• Payment gateway Integration 
+1. Signin/Signup
+2. Product Discovery Page
+3. Product Cart and Checkout Page
+4. Payment gateway Integration 
 
 <h1>Snapshots of our project</h1>
 
