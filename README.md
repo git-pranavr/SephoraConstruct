@@ -6,7 +6,7 @@ AS part of unit 2 construct week we cloned the frontend of sephora.com to the be
 
 [Deploy link](https://sephoraclone.netlify.app/)
 
-[Blog link]:(https://medium.com/@iaishwaryapatil01/sephora-website-cloning-f694dc2941b5)
+[Blog link](https://medium.com/@iaishwaryapatil01/sephora-website-cloning-f694dc2941b5)
 
 ## collaborators:
 - [Pranav R](github.com/git-pranavr)
