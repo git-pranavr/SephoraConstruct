@@ -18,8 +18,9 @@ AS part of unit 2 construct week we cloned the frontend of sephora.com to the be
 <p>
    <img src="https://img.icons8.com/color/64/000000/javascript.png"/>
    <img src="https://img.icons8.com/color/64/000000/html-5.png"/>
-   <img src="https://img.icons8.com/color/64/000000/css3.png# Sephora Clone
-
+   <img src="https://img.icons8.com/color/64/000000/css3.png" />
+   <img src="https://img.icons8.com/color/64/000000/json.png"/>
+</p>
 
 <h1>Snapshots of our project</h1>
 
@@ -55,5 +56,4 @@ AS part of unit 2 construct week we cloned the frontend of sephora.com to the be
 
 ![image](https://user-images.githubusercontent.com/93313435/165320905-2cf11187-82e8-448f-aa6f-153510dc1c49.png)
 
-   <img src="https://img.icons8.com/color/64/000000/json.png" />
-</p>
+
